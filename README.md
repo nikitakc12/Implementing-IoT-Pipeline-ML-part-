@@ -32,11 +32,17 @@ The core goal is to build high-performance neural networks while balancing model
 ### Project Structure
 
 ├── ML_Code_Base/             # Core .ipynb notebooks for all tasks
+
 ├── Data/                     # Image datasets (Pizza, Steak, Fashion)
+
 ├── Models/                   # Exported .keras files
+
 ├── Evaluations/              # Accuracy vs. Parameter scoring logic
+
 ├── README.md                 # Project documentation
+
 ├── .gitignore                # Python & Jupyter exclusion rules
+
 └── LICENSE                   # MIT Open Source License
 
 ------------------------------
@@ -88,9 +94,11 @@ This is an academic repository. However, feedback on model optimization and hype
 ------------------------------
 ### License
 This project is licensed under the MIT License.
+
 ------------------------------
 ### Contact
 Nikita
 Email: Nikita.K.C@student.lab.fi
 GitHub: nikitakc12
+
 ------------------------------
