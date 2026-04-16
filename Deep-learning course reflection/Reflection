@@ -1,0 +1,46 @@
+## Semester Learning Summary: Applied Deep Learning with TensorFlow
+Course: Applied Deep Learning with TensorFlow
+Instructor: Mira Vorne
+Student: Nikita K C
+Institution: LAB University of Applied Sciences
+------------------------------
+## I. Introduction
+This file summarizes the theoretical foundations and practical methodologies acquired during the semester. The course provided a comprehensive deep dive into the TensorFlow ecosystem, moving from basic numerical representations to advanced convolutional architectures and transfer learning. While working on the exercises, I built simple models using TensorFlow, which helped me understand how predictions improve during training.
+## II. Core Theoretical Pillars
+1. The Mathematical Foundation: Tensors
+I learned that tensors are the universal language of deep learning. Understanding the properties of Shape, Rank, and Data Type is critical, as most development errors stem from shape mismatches rather than mathematical flaws. I gained intuition on how scalars, vectors, and matrices represent data—from single apartment prices to complex multi-featured datasets.
+2. Neural Network Mechanics
+The course demystified the "black box" of neural networks. I now understand that learning is essentially the adjustment of weight matrices through Matrix Multiplication to align numerical transformations with target outputs.
+
+* Regression: Predicting continuous values by learning functional relationships (e.g., $y = x + 10$).
+* Classification: Reasoning in probabilities rather than hard categories, using Sigmoid (binary) and Softmax (multiclass) activations.
+
+3. The Challenge of Generalization
+A key takeaway was the distinction between learning and memorization. I explored the risks of overfitting, where a model becomes too tuned to training noise and fails on unseen data. I learned that visualization (plotting predictions vs. ground truth) is the most effective way to detect bias and ensure the model is truly generalizing.
+4. Spatial Intelligence: CNNs
+I learned why traditional Dense layers struggle with images (destroying spatial structure). Convolutional Neural Networks (CNNs) solve this by using filters to detect local patterns (edges and textures) and Pooling to trade unnecessary detail for robustness and position invariance.
+5. Efficiency in Modern AI
+Through the "Optimization vs. Accuracy" task, I realized that a model’s value isn't just its accuracy, but its efficiency. Learning to balance high performance with a low parameter count is a vital skill for real-world deployment.
+## III. Methodology: The Keras Workflow
+The course instilled a disciplined, three-step mental model for all deep learning tasks:
+
+   1. Create: Defining the architecture and computation graph.
+   2. Compile: Configuring the loss functions (MAE, Cross-Entropy) and optimizers.
+   3. Fit: Executing gradient-based learning on the data.
+
+## IV. Practical Skills & Tools
+
+* Data Preprocessing: Mastering normalization to stabilize gradients and accelerate training.
+* Transfer Learning: Leveraging pre-trained models (like EfficientNet) to multiply efficiency and reduce data requirements.
+* Experiment Tracking: Using tools like TensorBoard to turn experimental intuition into empirical evidence.
+
+## Conclusion
+Overall, this course helped me build a strong foundation in deep learning using TensorFlow. I now understand how to create, train, and evaluate models, and I feel more confident applying these concepts in future projects.
+
+## V. Acknowledgment
+During the course, course teacher Mira Vorne explained concepts in a very clear and structured way, which helped me understand not just how things work, but also why they work. Her focus on key ideas made complex topics like neural networks and TensorFlow easier to follow. Through the combination of theory and practical exercises, I was able to build a strong understanding of deep learning concepts and apply them in real tasks.
+------------------------------
+
+
+
+
