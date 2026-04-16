@@ -99,6 +99,7 @@ This project is licensed under the MIT License.
 ### Contact
 Nikita
 Email: Nikita.K.C@student.lab.fi
+
 GitHub: nikitakc12
 
 ------------------------------
