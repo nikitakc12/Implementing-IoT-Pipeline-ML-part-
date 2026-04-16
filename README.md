@@ -2,10 +2,11 @@
 
 
 
-## Project Overview
+### Project Overview
 
 This repository serves as a centralized hub for my machine learning projects and tasks completed at LAB University of Applied Sciences. The focus of this work is the numerical foundation of deep learning, ranging from basic tensor manipulations to complex image classification and regression tasks.
 The core goal is to build high-performance neural networks while balancing model efficiency (parameter count) against classification accuracy.
+
 ------------------------------
 ### Key Features
 
